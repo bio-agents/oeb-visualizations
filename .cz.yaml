@@ -1,8 +1,3 @@
----
-commitizen:
-  major_version_zero: true
-  name: cz_conventional_commits
-  tag_format: $version
-  update_changelog_on_bump: true
-  version_provider: npm
-  version_scheme: semver
+version https://git-lfs.github.com/spec/v1
+oid sha256:fa70e4b3db8d2f5e922bbaecf31833fc545311164761a660e382dc72900c609a
+size 180
